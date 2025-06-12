@@ -31,18 +31,18 @@ Table of Contents
 
 Project Structure
 =================
-insurance-risk-analysis/
-├── data/                  # Raw and processed datasets
-├── eda/                   # EDA scripts and plots
-├── dvc/                   # DVC config and tracked data
-├── stats_tests/           # Hypothesis testing scripts
-├── models/                # ML training and evaluation code
-├── plots/                 # All visualizations
-├── .github/workflows/     # CI/CD via GitHub Actions
-├── .dvc/                  # DVC metadata
-├── README.md
-├── requirements.txt
-├── .gitignore
+insurance-risk-analysis/ <br>
+├── data/                  # Raw and processed datasets<br>
+├── eda/                   # EDA scripts and plots<br>
+├── dvc/                   # DVC config and tracked data<br>
+├── stats_tests/           # Hypothesis testing scripts<br>
+├── models/                # ML training and evaluation code<br>
+├── plots/                 # All visualizations<br>
+├── .github/workflows/     # CI/CD via GitHub Actions<br>
+├── .dvc/                  # DVC metadata<br>
+├── README.md<br>
+├── requirements.txt<br>
+├── .gitignore<br>
 
 
 Installation and Setup
